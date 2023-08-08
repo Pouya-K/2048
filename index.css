@@ -1,0 +1,16 @@
+.title{
+    color: black;
+    text-align: center;
+}
+.grid{
+    margin: auto;
+    border: 1px solid;
+    width: 40%;
+    display: grid;
+    column-gap: 0%;
+    grid-template-columns: auto auto auto auto;
+}
+.gridElement{
+    font-size: 300%;
+    text-align: center;
+}
